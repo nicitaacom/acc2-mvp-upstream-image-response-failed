@@ -1,10 +1,10 @@
 # What inside? <br/>
 
-# <sub> demo - https://ominous-space-broccoli-9qgwx9pqq6p2pxvq-3000.app.github.dev/ <br/>
+# <sub> demo - https://verbose-doodle-xv6wgrx7gphq9q.github.dev/ <br/>
 
 # <sub> mvp - https://ominous-space-broccoli-9qgwx9pqq6p2pxvq.github.dev</sub>
 
-# <sub> github - https://github.com/nicitaacom/acc2-image-warning-to-maintain-the-aspect-ratio</sub>
+# <sub> github - https://github.com/nicitaacom/acc2-mvp-upstream-image-response-failed</sub>
 
 <br/>
 
